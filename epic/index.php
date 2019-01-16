@@ -7,5 +7,6 @@
 	<body><a href="kristenShepard.php">Customer Persona- Kristen Shepard</a>
 	<br>
 		<a href="kristenShepard.jpg">Kristen Shepard Photo</a>
+	<br> <a href="use-case.php">Kristen Shepard Use Case</a>
 	</body>
 </html>
