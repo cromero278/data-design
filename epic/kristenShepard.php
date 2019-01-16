@@ -2,13 +2,13 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>Kristen Shepard Presona</title>
+		<title>Kristen Shepard Persona</title>
 	</head>
 	<body>
 	<p>
 		<h1>Customer Persona</h1>
-		<p>
 			<img src="kristenShepard.jpg">
+			<p>
 			<strong>Name:</strong> Kristen Shepard
 			<br>
 			<strong>Age:</strong> 21
@@ -31,16 +31,16 @@
 		</p>
 		<h2>User Story</h2>
 		<p>
-			Kristen has a used North Face coat that she no longer needs and would like to sell it online.
+			Kristen sells used North Face jacket online.
 		</p>
 		<h2>Use Case</h2>
-			<strong>Title:</strong> Kristen sells North Face jacket online.
+			<strong>Title:</strong> Kristen sells North Face jacket on Poshmark.
 			<br>
 			<strong>Description:</strong> Kristen uses mobile phone to find/use selling platform for clothing items.
 			<br>
-			<strong>Usage Preconditions:</strong> Must have mobile phone capable of downloading/displaying apps and taking photos.
+			<strong>Usage Pre-conditions:</strong> Must have mobile phone capable of downloading/displaying apps and taking photos.
 			<br>
-			<strong>Usage Postconditions:</strong> The application sends Kristen offers from potential buyers.
+			<strong>Usage Post-conditions:</strong> The application sends Kristen offers from potential buyers.
 			<h2>Interaction Flow</h2>
 		<ul>
 			<li>Kristen downloads Poshmark app on her iPhone and opens the application once downloaded</li>
@@ -50,7 +50,7 @@
 			<li>Kristen chooses to bypass entering the additional optional information</li>
 			<li>Poshmark sends Kristen to the homepage of the app</li>
 			<li>Kristen clicks the sell icon in the center of the bottom navigation bar</li>
-			<li>Poshmark opens the camera on Kristens phone and prompts her to take a picture of the item she is trying to sell</li>
+			<li>Poshmark opens the camera on Kristen's phone and prompts her to take a picture of the item she is trying to sell</li>
 			<li>Kristen takes a photo of the North Face jacket</li>
 			<li>Poshmark adds the photo to the 'Listing Details' page and requests additional information, including 'What are you selling?', 'Describe your item' 'Category', 'Quantity', 'Size', 'Price'</li>
 			<li>Kristen inputs all required information and clicks 'Next' on the top right of the screen</li>
