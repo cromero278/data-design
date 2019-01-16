@@ -8,6 +8,7 @@
 	<p>
 		<h1>Customer Persona</h1>
 		<p>
+			<img src="kristenShepard.jpg">
 			<strong>Name:</strong> Kristen Shepard
 			<br>
 			<strong>Age:</strong> 21
@@ -40,8 +41,7 @@
 			<strong>Usage Preconditions:</strong> Must have mobile phone capable of downloading/displaying apps and taking photos.
 			<br>
 			<strong>Usage Postconditions:</strong> The application sends Kristen offers from potential buyers.
-			<br>
-			<strong>Interaction Flow</strong>
+			<h2>Interaction Flow</h2>
 		<ul>
 			<li>Kristen downloads Poshmark app on her iPhone and opens the application once downloaded</li>
 			<li>Poshmark prompts Kristen to sign in or create an account and asks if she would like to receive notifications from the app on her phone</li>
