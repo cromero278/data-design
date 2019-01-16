@@ -1,7 +1,11 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Pure-Manage
- * Date: 1/16/2019
- * Time: 11:48 AM
- */
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Data Design Index</title>
+	</head>
+	<body><a href="kristenShepard.php">Customer Persona- Kristen Shepard</a>
+	<br>
+		<a href="kristenShepard.jpg">Kristen Shepard Photo</a>
+	</body>
+</html>

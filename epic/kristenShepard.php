@@ -7,7 +7,7 @@
 	<body>
 	<p>
 		<h1>Customer Persona</h1>
-			<img src="kristenShepard.jpg">
+			<img src="kristenShepard.jpg" alt="Kristen Photo">
 			<p>
 			<strong>Name:</strong> Kristen Shepard
 			<br>
@@ -15,7 +15,7 @@
 			<br>
 			<strong>Profession:</strong> College Student
 			<br>
-			<strong>Hobbies:</strong> Spending time with sorority sisters, attending college football games, marathon running
+			<strong>Hobbies:</strong> Spending time with sorority sisters, attending college football games, long distance running
 			<br>
 			<strong>Technology:</strong> iPhone10, 13 inch 2017 MacBook Air (OS Sierra)
 			<br>
