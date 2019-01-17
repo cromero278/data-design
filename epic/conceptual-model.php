@@ -12,6 +12,7 @@
 				<li>userId (primary key)</li>
 				<li>userCollege</li>
 				<li>userCollegeYear</li>
+				<li>userEmail</li>
 				<li>userFirstName</li>
 				<li>userGender</li>
 				<li>userLastName</li>
@@ -21,19 +22,13 @@
 			<strong>Listing</strong>
 			<ul>
 				<li>listingId (primary key)</li>
+				<li>listingCategoryId (foreign key)</li>
 				<li>listingUserId (foreign key)</li>
 				<li>listingBrand</li>
-				<li>listingCategory</li>
 				<li>listingDescription</li>
 				<li>listingName</li>
+				<li>listingPhoto</li>
 				<li>listingPrice</li>
-			</ul>
-			<strong>Listing Photo</strong>
-			<ul>
-				<li>listingPhotoId(primary key)</li>
-				<li>listingPhotoListingId (foreign key)</li>
-				<li>listingPhotoSize</li>
-				<li>listingPhotoUrl</li>
 			</ul>
 			<strong>Category</strong>
 			<ul>
@@ -42,12 +37,11 @@
 				<li>categoryPhoto</li>
 			</ul>
 		<h2>Relationships</h2>
-		One User can have many listings (1 to n)
-		<br>
-		One listing can have many photos (1 to n)
+		One user can have many listings (1 to n)
 		<br>
 		Many categories can have many listings (m to n)
 		<br>
 		Many listings can have many categories (m to n)
+		<br>
 	</body>
 </html>
