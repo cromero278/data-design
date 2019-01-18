@@ -22,10 +22,10 @@ PRIMARY KEY (userId)
 );
 CREATE TABLE category (
 
-	categoryId BINARY (16) NOT NULL,
-	categoryName VARCHAR (32) NOT NULL,
-	categoryPhotoUrl VARCHAR (50) NOT NULL,
-	PRIMARY KEY(categoryId)
+categoryId BINARY (16) NOT NULL,
+categoryName VARCHAR (32) NOT NULL,
+categoryPhotoUrl VARCHAR (50) NOT NULL,
+PRIMARY KEY(categoryId)
 );
 
 CREATE TABLE listing (
