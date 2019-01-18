@@ -27,14 +27,14 @@
 				<li>listingBrand</li>
 				<li>listingDescription</li>
 				<li>listingName</li>
-				<li>listingPhoto</li>
+				<li>listingPhotoUrl</li>
 				<li>listingPrice</li>
 			</ul>
 			<strong>Category</strong>
 			<ul>
 				<li>categoryId (primary key)</li>
 				<li>categoryName</li>
-				<li>categoryPhoto</li>
+				<li>categoryPhotoUrl</li>
 			</ul>
 		<h2>Relationships</h2>
 		One user can have many listings (1 to n)
@@ -43,5 +43,7 @@
 		<br>
 		Many listings can have many categories (m to n)
 		<br>
+		<h2>ERD</h2>
+		<img src="erdplus-diagram.png" alt="erd">
 	</body>
 </html>
