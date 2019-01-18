@@ -44,6 +44,6 @@
 		Many listings can have many categories (m to n)
 		<br>
 		<h2>ERD</h2>
-		<img src="erdplus-diagram.png" alt="erd" style= width="30%";height="auto;">
+		<img src="erdplus-diagram.png" alt="ERD Diagram" style="width:900px;height:600px;">
 	</body>
 </html>
