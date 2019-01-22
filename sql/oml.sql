@@ -14,3 +14,5 @@ SELECT userFirstName, userLastName, userEmail FROM user WHERE userId = UNHEX("44
 
 SELECT listing.listingId, listing.listingDescripton, listing.listingName FROM listing INNER JOIN user
 ON listing.listingUserId = user.userId WHERE listingBrand = "Frye";
+
+SELECT COUNT(*) FROM user;
