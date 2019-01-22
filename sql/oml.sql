@@ -16,3 +16,6 @@ SELECT listing.listingId, listing.listingDescripton, listing.listingName FROM li
 ON listing.listingUserId = user.userId WHERE listingBrand = "Frye";
 
 SELECT COUNT(*) FROM user;
+
+SELECT COUNT(*) FROM listing WHERE listingUserId = UNHEX("44bef377e68644629c1b28cf2ad8242a");
+
